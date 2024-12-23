@@ -1,0 +1,16 @@
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\bin\Debug\Müsteri Takip.exe.config
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\bin\Debug\Müsteri Takip.exe
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\bin\Debug\Müsteri Takip.pdb
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri Takip.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri_Takip.Form1.resources
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri_Takip.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri Takip.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri Takip.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri Takip.exe
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri Takip.pdb
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri_Takip.musteriekle.resources
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri_Takip.musteriliste.resources
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri_Takip.urunekle.resources
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri_Takip.urunliste.resources
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri_Takip.comboKategori.resources
+C:\Users\Kullanıcı\Desktop\Gelsin Paralar\Muhammet Emre\Müsteri Takip\Müsteri Takip\obj\Debug\Müsteri_Takip.satis.resources
